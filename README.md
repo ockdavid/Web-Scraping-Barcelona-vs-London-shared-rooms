@@ -1,1 +1,1 @@
-This repository will show the differences of prices between houses of London and Barcelona from Idealista 
+This repository will show the differences of prices/m^2 between shared rooms of London and Barcelona
