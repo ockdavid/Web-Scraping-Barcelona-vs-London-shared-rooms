@@ -7,15 +7,15 @@ London:
 To find shared rooms in London we looked for them on RightMove: https://www.rightmove.co.uk/
 We can see in the picture below that the price and the size is marked with a red arrow. These are the data we are gonna get with web scraping
 
-![alt text](https://github.com/ockdavid/Barcelona-vs-London-houses-princing/blob/main/Pics/Results.png](https://github.com/ockdavid/Barcelona-vs-London-houses-princing/blob/main/Pics/Shared%20room%20London.png)
+![alt text](https://github.com/ockdavid/Barcelona-vs-London-houses-princing/blob/main/Pics/Shared%20room%20London.png)
 
 Barcelona: 
 To find shared rooms in Barcelona we looked for them on Badi: https://badi.com/es/
 We can see in the picture below that the price and the size is marked with a red arrow. These are the data we are gonna get with web scraping
 
-![alt text](https://github.com/ockdavid/Barcelona-vs-London-houses-princing/blob/main/Pics/Results.png](https://github.com/ockdavid/Barcelona-vs-London-houses-princing/blob/main/Pics/Shared%20room%20Barcelona.png)
+![alt text](https://github.com/ockdavid/Barcelona-vs-London-houses-princing/blob/main/Pics/Shared%20room%20Barcelona.png)
 
 I analize tens of pages and collected only the ones that had information (price and size of the bedroom).
 Once we got the results of every city, we calculate the average of each city and compare each other as we see in the picture below.
 
-![alt text](https://github.com/ockdavid/Barcelona-vs-London-houses-princing/blob/main/Pics/Results.png](https://github.com/ockdavid/Barcelona-vs-London-houses-princing/blob/main/Pics/Shared%20room%20Barcelona.png](https://github.com/ockdavid/Barcelona-vs-London-houses-princing/blob/main/Pics/Results.png)
+![alt text](https://github.com/ockdavid/Barcelona-vs-London-houses-princing/blob/main/Pics/Results.png)
