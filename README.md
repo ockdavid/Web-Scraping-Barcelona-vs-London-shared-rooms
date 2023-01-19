@@ -6,3 +6,4 @@ London:
 To find shared rooms in London we loook for them on RightMove: https://www.rightmove.co.uk/
 
 
+![alt text](https://github.com/ockdavid/Barcelona-vs-London-houses-princing/blob/main/Pics/Results.png)
