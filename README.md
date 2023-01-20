@@ -1,12 +1,10 @@
 <!-- PROJECT LOGO -->
-<br />
 <div align="center">
   <a href="https://github.com/ockdavid/Barcelona-vs-London-houses-princing">
     <img src="Pics/Logo_web_scraping.png" alt="Logo" width="366" height="310">
   </a>
   <p align="center">
     An interesting assignment became a project of web scraping!
-    <br />
   </p>
 </div>
 
@@ -22,17 +20,41 @@ We use Python on Jupyter Notebooks for coding and Selenium for the Web Scraping
 ### Shared rooms in London:
 To find shared rooms in London we looked for them on RightMove: https://www.rightmove.co.uk/
 
-We can see in the picture below that the price and the size is marked with a red arrow. These are the data we are gonna get with web scraping
+We can see in the picture below that the price and the size is marked with a red arrow, so these are the values we are gonna get with web scraping.
 
-![alt text](https://github.com/ockdavid/Barcelona-vs-London-houses-princing/blob/main/Pics/Shared%20room%20London.png)
+<div align="center">
+  <a href="https://github.com/ockdavid/Barcelona-vs-London-houses-princing">
+    <img src="Pics/Shared%20room%20London.png" alt="Logo" width="856" height="580">
+  </a>
+</div>
 
-Barcelona: 
+<!-- otra manera de poner link: ![alt text](https://github.com/ockdavid/Barcelona-vs-London-houses-princing/blob/main/Pics/Shared%20room%20London.png) -->
+
+
+
+### Shared rooms in Barcelona: 
 To find shared rooms in Barcelona we looked for them on Badi: https://badi.com/es/
-We can see in the picture below that the price and the size is marked with a red arrow. These are the data we are gonna get with web scraping
 
-![alt text](https://github.com/ockdavid/Barcelona-vs-London-houses-princing/blob/main/Pics/Shared%20room%20Barcelona.png)
+We can see in the picture below that the price and the size is marked with a red arrow, so these are values we are gonna get with web scraping.
+
+<!-- otra manera de poner link: ![alt text](https://github.com/ockdavid/Barcelona-vs-London-houses-princing/blob/main/Pics/Shared%20room%20Barcelona.png)  -->
+
+<div align="center">
+  <a href="https://github.com/ockdavid/Barcelona-vs-London-houses-princing">
+    <img src="Pics/Shared%20room%20Barcelona.png" alt="Logo" width="849" height="616">
+  </a>
+</div>
+
+### Results:
 
 I analize tens of pages and collected only the ones that had information (price and size of the bedroom).
+
 Once we got the results of every city, we calculate the average of each city and compare each other as we see in the picture below.
 
-![alt text](https://github.com/ockdavid/Barcelona-vs-London-houses-princing/blob/main/Pics/Results.png)
+<!-- otra manera de poner link:  ![alt text](https://github.com/ockdavid/Barcelona-vs-London-houses-princing/blob/main/Pics/Results.png) -->
+
+<div align="center">
+  <a href="https://github.com/ockdavid/Barcelona-vs-London-houses-princing">
+    <img src="Pics/Results.png" alt="Logo" width="919" height="645">
+  </a>
+</div>
