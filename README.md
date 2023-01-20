@@ -1,3 +1,29 @@
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/ockdavid/Barcelona-vs-London-houses-princing/blob/main/Pics/Logo%20web%20scraping.png">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Best-README-Template</h3>
+
+  <p align="center">
+    An awesome README template to jumpstart your projects!
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+  </p>
+</div>
+
+
+## About The Project
+
 This is a Data Science Foundations course's assignment of the Master of Big Data and Artificial Intelligence Solutions
 
 This repository will show the differences of prices/m^2 between shared rooms of London and Barcelona.
